@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC_DRV_3 Pin=TP8-1
+Removed Pin From Net: NetName=VCC_DRV_2 Pin=TP9-1
+Removed Pin From Net: NetName=VCC_DRV_1 Pin=TP14-1
+Removed Member From Class: ClassName=PMSM_Driver Member=TP8
+Removed Member From Class: ClassName=PMSM_Driver Member=TP9
+Removed Member From Class: ClassName=PMSM_Driver Member=TP14
+Added Room: Name=PMSM_Driver

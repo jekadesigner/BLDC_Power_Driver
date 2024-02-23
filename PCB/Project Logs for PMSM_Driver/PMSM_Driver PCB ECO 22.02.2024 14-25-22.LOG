@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC26_2 Pin=TP39-1
+Removed Pin From Net: NetName=NetC51_2 Pin=TP69-1
+Removed Pin From Net: NetName=NetC72_2 Pin=TP105-1
+Removed Member From Class: ClassName=PMSM_Driver Member=TP39
+Removed Member From Class: ClassName=PMSM_Driver Member=TP69
+Removed Member From Class: ClassName=PMSM_Driver Member=TP105
+Added Room: Name=PMSM_Driver
