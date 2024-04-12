@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\chipi\Documents\GitHub\BLDC_Power_Driver\PCB\PMSM_Driver.PcbDoc
-Date     : 06.03.2024
-Time     : 14:44:16
+PCB File : C:\Users\Cor-Energy\Documents\GitHub\BLDC_Power_Driver\PCB\PMSM_Driver.PcbDoc
+Date     : 12.04.2024
+Time     : 14:07:57
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (InNetClass('All Nets')),(InNetClass('HV'))
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
